@@ -1,6 +1,6 @@
 # ParadigmaProgramacionParalelo
 
-> .[!NOTE]
+> [!NOTE]
 > Samuel Es gay
 
 
