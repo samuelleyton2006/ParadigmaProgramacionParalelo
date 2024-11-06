@@ -7,6 +7,9 @@
 
 Taller de 20 preguntas sobre el paralelismo mas un codigo en Kotlin implementar paradigma paralelo (Mostrar prueba de tiempo de ejecucion)
 
+>[!TIP]
+>[**Tutorial basico sobre Kotlin**](https://learnxinyminutes.com/docs/es-es/kotlin-es/)
+
 ## Opcion 2
 
 Implementar el paradigma paralelo en codigo en Assembly
