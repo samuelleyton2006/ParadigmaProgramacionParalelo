@@ -7,15 +7,4 @@
 
 
 
-> [!TIP]
-> Samuel Es gay
-
-> [!CAUTION]
-> Samuel Es gay
-
-> [!NOTE]
-> Samuel Es gay
-
-> [!IMPORTANT]
-> Samuel Negro es Gay
 
