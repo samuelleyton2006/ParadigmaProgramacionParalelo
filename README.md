@@ -3,9 +3,7 @@
 >[!NOTE]
 >En este taller se encuentran 3 opciones para escoger, deben de escoger una de las opciones y desarrollarlas
 
-## Opcion 1
-
-[Opcion1](Taller_Paralelismo/Opcion_1)
+## [Opcion 1](https://github.com/samuelleyton2006/ParadigmaProgramacionParalelo/tree/main/Taller%20Paralelismo/Opcion%201)
 
 Taller de 20 preguntas sobre el paralelismo mas un codigo en Kotlin implementar paradigma paralelo (Mostrar prueba de tiempo de ejecucion)
 
