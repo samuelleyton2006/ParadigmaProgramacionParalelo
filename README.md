@@ -5,7 +5,7 @@
 
 ## Opcion 1
 
-[Opcion1](taller-paralelismo/opcion-1)
+[Opcion1](Taller_Paralelismo/Opcion_1)
 
 Taller de 20 preguntas sobre el paralelismo mas un codigo en Kotlin implementar paradigma paralelo (Mostrar prueba de tiempo de ejecucion)
 
