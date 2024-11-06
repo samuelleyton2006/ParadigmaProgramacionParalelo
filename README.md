@@ -1,6 +1,6 @@
 # ParadigmaProgramacionParalelo
 
-@samuelleyton2006
+@github/samuelleyton2006 asdqwe
 
 > [!NOTE]
 > Samuel Es gay
