@@ -1,5 +1,7 @@
 # ParadigmaProgramacionParalelo
 
+@samuelleyton2006
+
 > [!NOTE]
 > Samuel Es gay
 
