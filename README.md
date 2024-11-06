@@ -1,6 +1,7 @@
-#Taller 11/6/2024 hasta el 8/11/2024 a las 11:59pm
+# Taller 11/6/2024 hasta el 8/11/2024 a las 11:59pm
 
-En este taller se encuentran 3 opciones para escoger, deben de escoger una de las opciones y desarrollarlas
+>[!NOTE]
+>En este taller se encuentran 3 opciones para escoger, deben de escoger una de las opciones y desarrollarlas
 
 # Codigos Explicativos de programacion paralela
 
