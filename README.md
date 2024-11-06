@@ -10,11 +10,11 @@ Taller de 20 preguntas sobre el paralelismo mas un codigo en Kotlin implementar 
 >[!TIP]
 >[**Tutorial basico sobre Kotlin**](https://learnxinyminutes.com/docs/es-es/kotlin-es/)
 
-## Opcion 2
+## [Opcion 2](https://github.com/samuelleyton2006/ParadigmaProgramacionParalelo/tree/main/Taller%20Paralelismo/Opcion2)
 
 Implementar el paradigma paralelo en codigo en Assembly
 
-## Opcion 3
+## [Opcion 3](https://github.com/samuelleyton2006/ParadigmaProgramacionParalelo/tree/main/Taller%20Paralelismo/Opcion3)
 
 Implementar el paradigma paralelo en codigo en C#
 
